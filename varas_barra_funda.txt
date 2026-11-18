@@ -1,0 +1,203 @@
+# Varas do Foro Central Criminal Barra Funda (codigo e-SAJ foro-vara), da arvore varasTreeSelect.do do CJPG em 18/11/2026.
+# Ha codigos repetidos para a mesma vara (o codigo muda com o tempo); todos entram no filtro.
+50-506	6ª vara criminal
+50-3769	29ª. vara criminal
+50-507	7ª vara criminal
+50-4405	juizado especial de violencia domestica e familiar
+50-3755	22ª. vara criminal
+50-3757	23ª. vara criminal
+50-519	19ª vara criminal
+50-903	vara colegiada – 1ª orcrim – tit. 2
+50-904	vara colegiada – 2ª orcrim – tit. 1
+50-1100	dipo
+50-4416	distribuidor - outro foro regional
+50-905	vara colegiada – 2ª orcrim – tit. 2
+50-4406	vara do foro central de violencia domestica e familiar contra a mulher
+50-3673	19ª. vara criminal
+50-504	4ª vara criminal
+50-1511	dipo 5 - divisao de expedientes da policia judiciaria
+50-509	9ª vara criminal
+50-901	vara colegiada – 1ª orcrim – tit. 1
+50-508	8ª vara criminal
+50-503	3ª vara criminal
+50-505	5ª vara criminal
+50-1512	dipo 1 - secao 1.1.2
+50-4005	8ª. vara criminal
+50-1513	dipo 1 - secao 1.2.1
+50-3671	18ª. vara criminal
+50-502	2ª vara criminal
+50-4413	vara do juizado especial criminal - fc
+50-4408	dipo 3 - secao 3.1.2
+50-3996	7ª. vara criminal
+50-515	15ª vara criminal
+50-670	vara do juizado especial criminal familia
+50-671	vara foro cent. de viol. dom. e fam. cont. mulher
+50-516	16ª vara criminal
+50-801	vara colegiada - gar-orcrim 1
+50-4407	dipo 1
+50-3759	24ª. vara criminal
+50-997	distribuidor - outro foro regional
+50-4412	dipo 5 - secao 5.1.1
+50-4028	dipo 4 - secao 4.1.1
+50-1399	dipo - conversao
+50-4409	dipo 3 - secao 3.2.2
+50-3801	2ª. vara criminal
+50-3751	20ª. vara criminal
+50-4029	dipo 4 - secao 4.1.2
+50-4415	vara das execucoes criminais
+50-3753	21ª. vara criminal
+50-4414	vara do juizado especial criminal da familia
+50-4411	dipo 4 - secao 4.2.3 - hc, ms, hd e mc
+50-802	vara colegiada - gar-orcrim 2
+50-513	13ª vara criminal
+50-518	18ª vara criminal
+50-517	17ª vara criminal
+50-514	14ª vara criminal
+50-3669	17ª. vara criminal
+50-803	vara colegiada - gar-orcrim 3
+50-3665	15ª. vara criminal
+50-3667	16ª. vara criminal
+50-512	12ª vara criminal
+50-3661	14ª. vara criminal
+50-511	11ª vara criminal
+50-1518	dipo 3 - secao 3.1.3
+50-605	5ª vara do juizado especial criminal
+50-7236	vara do juizado especial criminal
+50-524	24ª vara criminal
+50-4024	dipo 3 - secao 3.2.1
+50-3937	4ª. vara criminal
+50-526	26ª vara criminal
+50-1411	dipo 4 - secao 4.1.1
+50-4026	dipo 3 - secao 3.2.3
+50-1422	dipo 4 - secao 4.2.2
+50-4380	outro tribunal
+50-4424	centro jud. de solucao de conflitos e cidadania
+50-4393	3ª  vara tribunal do juri
+50-4391	3ª vara tribunal do juri
+50-998	sistema prodesp
+50-3696	1ª. vara criminal
+50-603	3ª vara do juizado especial criminal
+50-522	22ª vara criminal
+50-607	7ª vara do juizado especial criminal
+50-7238	dipo 4 - secao 4.2.3
+50-4470	vara estadual esp. em crimes contra a ordem tributaria e econ. e crimes em licit. e contr. adm
+50-609	9ª vara do juizado especial criminal
+50-3657	13ª. vara criminal
+50-1514	dipo 1 - secao 1.2.2
+50-629	29ª vara do juizado especial criminal
+50-640	vara do juizado especial criminal
+50-1516	dipo 1.1
+50-3987	6ª. vara criminal
+50-501	1ª vara criminal
+50-520	20ª vara criminal
+50-614	14ª vara do juizado especial criminal
+50-528	28ª vara criminal
+50-907	vara colegiada – 3ª orcrim – tit. 2
+50-4433	5ª vara do juri
+50-4431	3ª vara do juri
+50-5001	1ª turma do colegio recursal criminal da capital
+50-612	12ª vara do juizado especial criminal
+50-702	2ª vara das execucoes criminais
+50-531	31ª vara criminal
+50-616	16ª vara do juizado especial criminal
+50-4467	3ª vara de crimes praticados contra criancas e adolescentes
+50-618	18ª vara do juizado especial criminal
+50-3642	10ª. vara criminal
+50-4463	1ª vara de crimes praticados contra criancas e adolescentes
+50-1542	cartorio da 32ª vara criminal
+50-4469	vara estadual das garantias de organizacoes criminosas e lavagem de bens, direitos e valores
+50-3021	1ª turma criminal do i colegio recursal da capital
+50-1324	dipo 3 - secao 3.2.4
+50-4441	anexo de defesa do torcedor - jecrim
+50-4468	3ª vara estadual de organizacoes criminosas e lavagem de bens, direitos e valores
+50-705	1ª vara das execucoes criminais
+50-4374	juizado especial criminal e criminal da familia
+50-624	24ª vara do juizado especial criminal
+50-1311	dipo 3 - secao 3.1.1
+50-610	10ª vara do juizado especial criminal
+50-611	11ª vara do juizado especial criminal
+50-530	30ª vara criminal
+50-704	4ª vara das execucoes criminais
+50-706	departamento de execucao criminal
+50-4440	sala de audiecia de custodia
+50-3889	3ª. vara criminal
+50-622	22ª vara do juizado especial criminal
+50-1322	dipo 3 - secao 3.2.2
+50-6002	2ª turma do colegio recursal criminal central
+50-1321	dipo 3 - secao 3.2.1
+50-621	21ª vara do juizado especial criminal
+50-1323	dipo 3 - secao 3.2.3
+50-3965	5ª. vara criminal
+50-623	23ª vara do juizado especial criminal
+50-6001	1ª turma do colegio recursal criminal central
+50-625	25ª vara do juizado especial criminal
+50-4020	dipo 1 - secao 1.2.4
+50-626	26ª vara do juizado especial criminal
+50-4458	1ª vara estadual de organizacoes criminosas e lavagem de bens, direitos e valores
+50-627	27ª vara do juizado especial criminal
+50-628	28ª vara do juizado especial criminal
+50-601	1ª vara do juizado especial criminal
+50-4021	dipo 3 - secao 3.1.1
+50-4396	1ª  vara tribunal do juri
+50-4397	5ª  vara tribunal do juri
+50-4450	sanctvs - setor de atend. de crimes contra infante, idoso, deficiente e vit. traf. int. pessoas
+50-4035	dipo 5 - secao 5.2.4
+50-602	2ª vara do juizado especial criminal
+50-371	setor unificado das cartas precatorias criminais
+50-4443	32ª vara criminal
+50-4398	juizado especial civel anexo xi de agosto-usp
+50-4032	dipo 4 - secao 4.2.2
+50-4399	decrim
+50-1312	dipo 3 - secao 3.1.2
+50-510	10ª vara criminal
+50-630	30ª vara do juizado especial criminal
+50-805	vara colegiada - gar-orcrim 5
+50-4448	central facilitadora
+50-3855	30ª. vara criminal
+50-619	19ª vara do juizado especial criminal
+50-525	25ª vara criminal
+50-804	vara colegiada - gar-orcrim 4
+50-7237	vara do juizado especial criminal familia
+50-606	6ª vara do juizado especial criminal
+50-999	outro tribunal
+50-4410	dipo 4 - secao 4.2.1
+50-4394	4ª vara tribunal do juri
+50-1423	dipo 4 - secao 4.2.3
+50-3761	25ª. vara criminal
+50-4392	4ª  vara tribunal do juri
+50-527	27ª vara criminal
+50-1412	dipo 4 - secao 4.1.2
+50-4390	vara das execucoes criminais
+50-608	8ª vara do juizado especial criminal
+50-4027	dipo 3 - secao 3.2.4
+50-604	4ª vara do juizado especial criminal
+50-523	23ª vara criminal
+50-1517	dipo - secao 1.1.3
+50-1519	dipo 4 - secao 4.1.3
+50-4459	2ª vara estadual de organizacoes criminosas e lavagem de bens, direitos e valores
+50-1515	dipo 1 - secao 1.2.3
+50-3765	27ª. vara criminal
+50-529	29ª vara criminal
+50-4464	2ª vara de crimes praticados contra criancas e adolescentes
+50-615	15ª vara do juizado especial criminal
+50-4432	4ª vara do juri
+50-3652	12ª. vara criminal
+50-521	21ª vara criminal
+50-701	vara estadual da execucao da pena de multa - veepem
+50-620	20ª vara do juizado especial criminal
+50-4040	distribuidor
+50-4430	1ª vara do juri
+50-906	vara colegiada – 3ª orcrim – tit. 1
+50-617	17ª vara do juizado especial criminal
+50-3763	26ª. vara criminal
+50-4462	vara da central de mandados de cumprimento remoto
+50-3022	2ª turma criminal do i colegio recursal da capital
+50-1421	dipo 4 - secao 4.2.1
+50-4014	9ª. vara criminal
+50-613	13ª vara do juizado especial criminal
+50-3767	28ª. vara criminal
+50-3857	31ª. vara criminal
+50-703	3ª vara das execucoes criminais
+50-5002	2ª turma do colegio recursal criminal da capital
+50-650	juizado especial criminal - familia - (residual)
+50-3647	11ª. vara criminal

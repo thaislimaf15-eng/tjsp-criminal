@@ -1,0 +1,26 @@
+# NUNCA versionar dados coletados: têm nomes de pessoas (LGPD).
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+*.dta
+*.parquet
+*.csv
+*.rds
+*.html
+*.pdf
+tabelas/
+exportacao/
+TJSP_ROBO/
+
+# Python / R / sistema
+__pycache__/
+*.pyc
+.venv/
+venv*/
+.Rhistory
+.RData
+.Renviron
+desktop.ini
+Thumbs.db
+.DS_Store
